@@ -127,7 +127,7 @@ const App = () => {
         <Label>Escuela</Label>
           
           <select>
-          <option value='todas' > Selecciona tu escuela </option>
+          <option value='todas' > Selecciona tu escuelita bonita </option>
           <option value='Cics Santo Tomas' > CICS Unidad Santo Tomás </option>
           <option value='Enba' > ENBA </option>
           <option value='Cics Santo Tomas' > ENCB </option>
