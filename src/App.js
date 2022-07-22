@@ -130,7 +130,7 @@ const App = () => {
           <option value='todas' > Selecciona tu escuela </option>
           <option value='Cics Santo Tomas' > CICS Unidad Santo Tomás </option>
           <option value='Enba' > ENBA </option>
-          <option value='Cics Santo Tomas' > ENCB </option>
+          <option value='Cics Santo Tomas' > ENCB ESCOM </option>
           <option value='Cics Santo Tomas' > ENMyH </option>
           <option value='Cics Santo Tomas' > ESCA Unidad Santo Tomás </option>
           <option value='Cics Santo Tomas' > ESCA Unidad Tepepan </option>
